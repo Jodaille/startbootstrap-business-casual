@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
 
@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Contact - Business Casual - Start Bootstrap Theme</title>
+    <title>Les installations des paddocks de Vauville</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -47,7 +47,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Les paddocks de Vauville</a>
+                <a class="navbar-brand" href="/">Les paddocks de Vauville</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -77,28 +77,26 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Contact
-
+                    <h2 class="intro-text text-center">Tarifs des
+                        <strong>paddocks de Vauville</strong>
                     </h2>
                     <hr>
                 </div>
-                <div class="col-md-8">
-                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2353.2512196173093!2d-0.37838690000003816!3d49.25414000000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDE1JzE2LjQiTiAwwrAyMiczOS40Ilc!5e1!3m2!1sfr!2sfr!4v1486424877420" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
-                <div class="col-md-4">
-                    <p><strong>Madame Élisabeth de Longcamp</strong></p>
-                    <p>Téléphone:
-                        <strong>02 31 44 45 77</strong>
-                    </p>
-                    <p>Adresse:
-                        <strong>Rue du Clos des Roses
-                            <br>14920 Mathieu, Normandie FRANCE</strong>
-                    </p>
+                <div class="col-md-6">
+                    <img class="img-responsive img-border-left" src="img/Baby.jpg" alt="">
+                </div>
+                <div class="col-md-6">
+                    <p>Quatre possibilités :</p>
+                    <p>- à l'année 180€*/mois par cheval</p>
+                    <p>- aux mois d'été 225€/mois par cheval</p>
+                    <p>- aux mois d'hiver 255€/mois par cheval (mois nourris selon la pousse de l'hiver avec de la nourriture traditionnelle et foin)</p>
+                    <p>- de passage forfait ** de 65€/semaine par cheval ou forfait ** de 10€/nuit par cheval (dans un paddock collectif avec abri) ou box/pré 120€/semaine</p>
+                    <p>* supplément de 40€ si demande de paddock individuel</p>
+                    <p>** supplément de 4€ par jour si demande de nourriture</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
         </div>
-
 
     </div>
     <!-- /.container -->
@@ -108,7 +106,6 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <p>Les paddocks de Vauville à Mathieu en Normandie</p>
-
                 </div>
             </div>
         </div>
@@ -119,6 +116,14 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 2000 //changes the speed
+    })
+    </script>
+
 
 </body>
 
