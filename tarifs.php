@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Les paddocks de Vauville</div>
-    <div class="address-bar">Rue du Clos des Roses | 14920 Mathieu | +332 31 44 45 77</div>
+    <div class="address-bar">Rue du Clos des Roses | 14920 Mathieu | 02 31 44 45 77</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -86,7 +86,7 @@
                     <img class="img-responsive img-border-left" src="img/Baby.jpg" alt="">
                 </div>
                 <div class="col-md-6">
-                    <p>Quatre possibilités :</p>
+                    <p>Quatre possibilités (T.T.C) :</p>
                     <p>- à l'année 180€*/mois par cheval</p>
                     <p>- aux mois d'été 225€/mois par cheval</p>
                     <p>- aux mois d'hiver 255€/mois par cheval (mois nourris selon la pousse de l'hiver avec de la nourriture traditionnelle et foin)</p>
