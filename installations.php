@@ -33,7 +33,7 @@
 <body>
 
     <div class="brand">Les paddocks de Vauville</div>
-    <div class="address-bar">Rue du Clos des Roses | 14920 Mathieu | 02 31 44 45 77 | 06 16 31 03 12</div>
+    <div class="address-bar">Rue du Clos des Roses | 14920 Mathieu | 02 31 44 45 77 | 06 59 04 72 34</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
